@@ -4,23 +4,10 @@ title: Configuration
 sidebar_label: Configuration
 slug: /configuration
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 ## Configuration file
 The configuration file is a [JSON](https://en.wikipedia.org/wiki/JSON) file.
-Depending on your OS, the configuration file is located at:
-<Tabs
-    defaultValue="macos"
-    values={[
-        {label: 'macOS', value: 'macos'},
-        {label: 'Windows', value: 'windows'},
-        {label: 'Linux', value: 'linux'},
-    ]}>
-    <TabItem value="macos"><code>~/Library/Application Support/squid/squid.json</code></TabItem>
-    <TabItem value="windows"><code>%APPDATA%/squid/squid.json</code></TabItem>
-    <TabItem value="linux"><code>~/.config/squid/squid.json</code></TabItem>
-</Tabs>
+It is located at your user's home directory and called `.squidrc.json`.
 
 ## Customizing it
 You can easily customize the appearence and features of Squid with its configuration.
