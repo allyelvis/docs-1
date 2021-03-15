@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'squidjs',
-  projectName: 'squidjs',
+  projectName: 'docs',
   themeConfig: {
     navbar: {
       title: 'Squid',
