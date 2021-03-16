@@ -24,6 +24,7 @@ Most of the settings are self-explanatory, but here are an overview of them:
 - `shells` The list of shells available in the quick menu
 - `webGlRendering` Faster rendering method
 - `tabsIcons` If you want to have icons to the left of the tabs
+- `css` Aditionnal CSS to add to the window
 - `cursor` The style can be `block`, `bar` or `underline`
 - `backgroundImage` You can use a background image from your computer, or from any url
 - `shortcuts` The shortcuts keybinds
@@ -80,6 +81,7 @@ Below is the default configuration:
   "tabsIcons": true,
   "altClickMoveCursor": true,
   "vibrancy": true,
+  "css": "",
   "bell": {
     "enabled": false,
     "sound": ""
