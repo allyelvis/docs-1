@@ -1,8 +1,8 @@
 ---
 id: installation
-title: Installation
+title: Installing
 sidebar_label: Installation
-slug: /install
+slug: /welcome/install
 ---
 
 Squid is available on macOS (Intel and M1), Windows and Linux. Non-stable versions called **Canary** versions of Squid are availables for download in GitHub [releases](https://github.com/QuiiBz/squid/releases).

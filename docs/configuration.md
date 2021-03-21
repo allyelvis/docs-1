@@ -1,11 +1,10 @@
 ---
 id: configuration
-title: Configuration
+title: Configuring
 sidebar_label: Configuration
-slug: /configuration
+slug: /customization
 ---
 
-## Configuration file
 The configuration file is a [JSON](https://en.wikipedia.org/wiki/JSON) file.
 It is located at your user's home directory and called `.squidrc.json`.
 
