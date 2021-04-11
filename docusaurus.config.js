@@ -3,7 +3,7 @@ module.exports = {
   title: 'Squid',
   tagline: 'The extendible Shell and SSH terminal, with E2E encryption in the cloud.',
   url: 'https://squidjs.github.io',
-  baseUrl: '/squid/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
