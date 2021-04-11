@@ -5,4 +5,4 @@ sidebar_label: Themes
 slug: /customization/themes
 ---
 
-You can easily use themes created by others, or [create your own themes](/docs/developers/themes).
+You can easily use themes created by others, or [create your own themes](/squid/developers/themes).
